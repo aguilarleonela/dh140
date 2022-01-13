@@ -1,4 +1,5 @@
 # dh140
+# winter 2022
 ## Leonela Aguilar 
   > My name is Leonela Aguilar and I am fourth year at UCLA. I am a Sociology major with a minor in Digital Humanities. 
   > The link to my Git Hub profile is [aguilarleonela](https://github.com/aguilarleonela) 
@@ -10,4 +11,4 @@
   > - Popular culture (music/movies)
   > - veganism in the USA 
   ## Objectives 
-  > My goal is to gain familiarity with Python and learn how to analyze data with coding. As a social science major, coding is very new to me and is something I am looking forward to ganing proficiency. I want to gain new software skills and sharpen my critical research abilities.  
+  > My goal is to gain familiarity with Python and learn how to analyze data with coding. As a social science major, coding is very new to me and is something I am looking forward to ganing proficiency. I want to gain new software skills and sharpen my critical research abilities. 
